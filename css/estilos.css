@@ -6,3 +6,9 @@
 
     }
     .carousel-item { opacity: .9;}
+    #Bs {
+      background-color: rgb(84, 84, 84); color: white; text-align: left; padding: auto;;
+    }
+    #card {
+      text-align: left;
+    }
